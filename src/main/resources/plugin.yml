@@ -1,0 +1,4 @@
+name: SuperJump
+version: '1.0-SNAPSHOT'
+main: org.lugi.superJump.SuperJump
+api-version: '1.21'
